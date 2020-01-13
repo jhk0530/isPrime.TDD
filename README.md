@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jhk0530/isPrime.TDD.svg?branch=master)](https://travis-ci.org/jhk0530/isPrime.TDD) 
+
 # :yellow_heart: isPrime.TDD
 Check given number is prime number with Test Driven Development in R language.
 
