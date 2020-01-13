@@ -15,5 +15,4 @@ function to check whether input number is prime ot not
 \examples{
 isPrime(2) # TRUE
 
-
 }
