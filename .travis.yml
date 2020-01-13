@@ -10,5 +10,5 @@ os:
 
 matrix:
     exclude:
-    - r:devel
+    - r: devel
       os: osx
