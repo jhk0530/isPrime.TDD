@@ -6,7 +6,7 @@
 #'
 #' @examples isPrime(2) # TRUE
 #'
-#'
+#' @export
 
 isPrime = function(x){
   if(!is.numeric(x)){
