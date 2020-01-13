@@ -1,0 +1,15 @@
+destination: docs
+
+URL: https://github.com/jhk0530/isPrime.TDD
+
+development:
+  mode: auto
+
+authors:
+  Jinhwan Kim:
+    href: https://github.com/jhk0530
+
+template:
+  params:
+    bootswatch: cerulean
+
