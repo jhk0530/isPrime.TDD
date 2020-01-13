@@ -1,3 +1,13 @@
+#' @title isPrime
+#'
+#' @description function to check whether input number is prime ot not
+#'
+#' @param x Integer value
+#'
+#' @examples isPrime(2) # TRUE
+#'
+#'
+
 isPrime = function(x){
   if(!is.numeric(x)){
     stop('x must be numeric value', call. = FALSE)
